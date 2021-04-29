@@ -1,4 +1,4 @@
-# Zeropay
+# PayZ
 
 To start your Phoenix server:
 
